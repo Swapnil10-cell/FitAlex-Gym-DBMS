@@ -1,0 +1,6 @@
+{
+  "name": "FitAlex Gym DBMS",
+  "description": "Premium cyber-athletic gym database management system for tracking members, memberships, trainers, and real-time attendance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
